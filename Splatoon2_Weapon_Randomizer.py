@@ -5,7 +5,7 @@ import numpy as np
 from numpy.random import *
 import pandas as pd
 
-TOKEN = 'NjkzMTMxMDk5NDU4NTAyNjk2.Xn4yZg._VSvM8CR6pMpRyF2l1yqiR09p9I'
+TOKEN = 'hoge'
 
 shorts = pd.read_table('short.txt', 
                      encoding='shift_jis',
