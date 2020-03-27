@@ -1,0 +1,2 @@
+# Splatoon2_RandomizerBot
+Splatoon2_RandomizerBot
